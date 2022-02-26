@@ -21,7 +21,7 @@
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+[`Click Here For Tutorial`]()
 
 ----------
 
@@ -73,33 +73,4 @@ Click WA logo to Join Support Group 👇
   <div align="center">
 
 
-## Developers
-  <div align="center">
-  
-  [![Ajx-Abu](https://i.ibb.co/xYYCDV3/vava.jpg)](https://github.com/Ajx-Abh)[`Ajx-Abu`](https://github.com/Ajx-Abu)
-----|
-   `Base, Bug Fixes, Modules`
-
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![DEVILSER](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/DEVILSER)[`DEVILSER`](https://github.com/DEVILSER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
-----|
-   `Bug Fixes, Modules`
-
-
-                                  
-  </div
+#
