@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajx-Abu/Abu-Ser.git"
+    "url": "git+https://github.com/Afx-Abu/Abu-Ser.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ajx-Abu",
+  "author": "Afx-Abu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ajx-Abu/Abu-Ser/issues"
+    "url": "https://github.com/Afx-Abu/Abu-Ser/issues"
   },
-  "homepage": "https://github.com/Ajx-Abu/Abu-Ser",
+  "homepage": "https://github.com/Afx-Abu/Abu-Ser",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
